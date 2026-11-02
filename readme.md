@@ -153,6 +153,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Utilities
 - [BankStatementConverter](https://bankstmtconverter.com/) - Transform Bank Statements to Excel, CSV  
+- [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers by job-to-be-done
 - [ScreenshotMagic](https://www.screenshotmagic.com/) - Automatically rename MacOS images with AI
 - [SOP Generator](https://sop.admitschool.com/) - Powerful, free SOP generator creates SOPs in seconds
 
