@@ -75,6 +75,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [HomeworkAI](https://www.homeworkai.com.br/) - Streamline language teaching effortlessly
 - [StudyArena](https://studyarena.com) - Compare three AI answers to a study question for free, then vote and reveal the models
 - [SummarizAI](https://summarizai.ink) - Summaries, chapters, chat and flashcards for YouTube lectures, right on the watch page
+- [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) - Review captioned YouTube lectures through selected original passages and text summaries; Chrome/Firefox, freemium.
 
 ## Resume/Job Assistance
 - [JobEmerge](https://www.jobemerge.work/) - Job-fit checks, resume editing and translation, cover letters, text-based mock interviews, and application tracking
