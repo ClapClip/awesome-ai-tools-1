@@ -126,6 +126,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Loman AI](https://loman.ai/) - 24/7 AI Sales and Support Agent
 - [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research
 - [FindAIforWork](https://findaiforwork.com) - Discover AI tools by work scenario, with read-only MCP search and comparison
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform that looks for disconfirming evidence before you gain conviction
 
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
