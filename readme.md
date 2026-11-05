@@ -157,6 +157,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [MeetNewAI](https://meetnewai.com/) - Free bilingual directory of AI tools, AI games, and MCP servers by job-to-be-done
 - [ScreenshotMagic](https://www.screenshotmagic.com/) - Automatically rename MacOS images with AI
 - [SOP Generator](https://sop.admitschool.com/) - Powerful, free SOP generator creates SOPs in seconds
+- [ArtiGram](https://artigram.cafeboon.com) - Free gallery of interactive HTML artifacts made by people and AI assistants, with a remote MCP server
 
 ## Security/Monitoring  
 - [NSFW JS](https://nsfwjs.com/) - Client-side indecent content detection
