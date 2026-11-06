@@ -134,6 +134,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Music/Audio
 - [SongSens.ai](https://songsens.ai/) - Global Beats, Local Lyrics
+- [TryMusic](https://trymusic.ai/) - Browser AI song generator that turns text or lyrics into full tracks (covers, extend, stems)
 - [Calligrapher.ai](https://www.calligrapher.ai/) - Generate realistic computer handwriting
 
 ## Development Tools
