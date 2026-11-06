@@ -112,6 +112,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Jetscribe.ai](https://jetscribe.ai/) - Transform audio to text instantly
 - [Podletter](https://www.podletter.io/) - Transform Newsletters into Podcasts
 - [Scribba](https://scribba.online/) - Fast, accurate AI-powered transcriptions & subtitles
+- [Transcribe Video: To The Text](https://video2text.ttt.so) - iOS app: turn videos, YouTube/Vimeo links, and live voice into text with speaker split, Summarize, TXT/DOCX export (freemium)
 - [Podcast Chatbot Generator](https://www.botcastai.com/freepodcastchatbotgenerator/) - Turn podcasts into interactive conversations
 
 ## Business/Workflow  
