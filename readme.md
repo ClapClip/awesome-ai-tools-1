@@ -55,6 +55,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 ## Personal/Productivity
 - [Glosa](https://glosa.app/) - Learn Languages Easily
 - [inbox.dog](https://inbox.dog/) - Streamlining email with AI automation
+- [ORANO](https://oranoai.com/) - Turns saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans. iOS, Android and web. Freemium.
 - [Zenquiz](https://zenquiz.app/) - Quizzes in seconds from study notes
 - [Optimix](https://www.optimix.app/) - Optimize LLM Responses Every Time
 - [Aurwy](https://aurwy.com/) - Boost creativity with AI-driven tools  
