@@ -19,6 +19,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plan and draft whole books chapter by chapter, with series story bibles and Word/EPUB export
 
 ## Visual AI (Image/Video Generation, Editing)
+- [ReelAI](https://tryreelai.com/) - Create short AI videos from photos using preset effects; paid.
 - [artgen](https://artgen.net/en/tools/image-to-pixel-art) - AI art + photo to pixel art, ASCII & risograph
 - [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - One photo → 13s widescreen solo AI dance; paid from $7.99; unofficial
