@@ -54,6 +54,13 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Cyanvid](https://cyanvid.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images with credit quotes.
 - [Barz Studio](https://barzvideo.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your own track).
 - [EasyRap](https://easyrapvideo.com/) - One or two photos to a 5, 10 or 15-second rap music video; paid credits, no free rendered trial.
+- [APT Video AI](https://aptvideoai.app) - Two photos → APT-style pink-studio duo video; no prompt needed; paid one-time credit packs; fan-made, unofficial
+- [Bulin 47 AI](https://bulin47videoai.app/) - One front-facing photo into the viral Bulin 47 freestyle template clip with audio; portrait or landscape MP4; paid one-time packs from $9.90, no subscription.
+- [Hotel Lobby AI Trend](https://hotellobbyaitrend.com/) - Two photos in, one orange-booth AI duo video with sound out; 9:16 or 16:9 MP4; paid packs from $4.99, no subscription.
+- [Image2GPT](https://images2gpt.com/) - Independent AI image generator and editor with inpainting, outpainting and style blend; watermark-free exports, free credits to try.
+- [AI Image to Video](https://aiimagetovideo.pro) - Animate a still image into a short HD clip, plus text-to-video and reference-to-video modes; free plan with credits
+- [Deep Swap AI](https://deepswapai.io/ai-face-swap-video) - Browser face swap for photos and videos, up to six faces; free tries, HD/4K on paid tiers
+- [GStory Image to Video](https://www.gstory.ai/image-to-video-ai) - Turn a single photo into a short AI video clip with an optional prompt; free tier, HD on paid plans
 
 ## Personal/Productivity
 - [Glosa](https://glosa.app/) - Learn Languages Easily
@@ -83,6 +90,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [StudyArena](https://studyarena.com) - Compare three AI answers to a study question for free, then vote and reveal the models
 - [SummarizAI](https://summarizai.ink) - Summaries, chapters, chat and flashcards for YouTube lectures, right on the watch page
 - [Watch YouTube Highlights](https://funcove.dev/watchhighlights/) - Review captioned YouTube lectures through selected original passages and text summaries; Chrome/Firefox, freemium.
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Free sidereal Vedic birth charts with AI-assisted interpretations of houses, nakshatras, dashas and divisional charts
 
 ## Resume/Job Assistance
 - [JobEmerge](https://www.jobemerge.work/) - Job-fit checks, resume editing and translation, cover letters, text-based mock interviews, and application tracking
@@ -155,6 +163,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree
 - [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent running 24/7 for creator rewards ($SGROK); site https://lmajster.github.io/sgrok/ ; Bags https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
 - [ModelRush](https://modelrush.ai/) - Hosted APIs for text, image, video, and voice models, with prepaid usage credits
+- [FiveAPI](https://fiveapi.ai) - One API key for AI image and video generation with async tasks and webhooks; prepaid credits
 - [Txt2SQL](https://txt2sql.com/) - Generate SQL queries with AI
 - [WrapFast](https://wrapfa.st/) - Launch AI Wrappers or any iOS apps quickly with boilerplate code
 - [deed.page](https://deed.page) - Hosting for AI coding agents: an agent publishes the HTML it built with one HTTP PUT or the remote MCP server and gets back a public HTTPS link
